@@ -1,0 +1,18 @@
+2018-09-22 12:15:19 [ThreadId 3] ERROR phoityne - ghci launch error. <file descriptor: 5>: hPutChar: resource vanished (Broken pipe)
+
+2018-09-22 12:15:19 [ThreadId 3] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-09-22 12:17:06 [ThreadId 3] ERROR phoityne - ghci launch error. <file descriptor: 5>: hPutChar: resource vanished (Broken pipe)
+
+2018-09-22 12:17:06 [ThreadId 3] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-09-22 12:22:06 [ThreadId 3] ERROR phoityne - ghci launch error. <file descriptor: 5>: hPutChar: resource vanished (Broken pipe)
+
+2018-09-22 12:22:06 [ThreadId 3] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-09-22 12:22:16 [ThreadId 3] ERROR phoityne - ghci launch error. <file descriptor: 5>: hPutChar: resource vanished (Broken pipe)
+
+2018-09-22 12:22:16 [ThreadId 3] ERROR phoityne - [disconnectRequestHandler] ghci not started.
+2018-09-22 12:23:26 [ThreadId 3] ERROR phoityne - load file fail.[C:/Users/asche/OneDrive/Documents/code_test/haskell/euler/Main.hs]
+2018-09-22 12:23:26 [ThreadId 3] ERROR phoityne - startup load error. C:/Users/asche/OneDrive/Documents/code_test/haskell/euler/Main.hs
+
+2018-09-22 13:02:08 [ThreadId 3] ERROR phoityne - [deleteBreakPointOnGHCi] invalid delete break point. BreakPointData {nameBreakPointData = "Lib", srcPosBreakPointData = SourcePosition {filePathSourcePosition = "C:\\Users\\asche\\OneDrive\\Documents\\code_test\\haskell\\euler\\src\\Lib.hs", startLineNoSourcePosition = 5, startColNoSourcePosition = -1, endLineNoSourcePosition = -1, endColNoSourcePosition = -1}, breakNoBreakPointData = Nothing, conditionBreakPointData = Nothing, hitConditionBreakPointData = Nothing, hitCountBreakPointData = 0}
+2018-09-22 13:02:08 [ThreadId 3] ERROR phoityne - [deleteBreakPointOnGHCi] invalid delete break point. BreakPointData {nameBreakPointData = "Lib", srcPosBreakPointData = SourcePosition {filePathSourcePosition = "C:\\Users\\asche\\OneDrive\\Documents\\code_test\\haskell\\euler\\src\\Lib.hs", startLineNoSourcePosition = 6, startColNoSourcePosition = -1, endLineNoSourcePosition = -1, endColNoSourcePosition = -1}, breakNoBreakPointData = Nothing, conditionBreakPointData = Nothing, hitConditionBreakPointData = Nothing, hitCountBreakPointData = 0}
+2018-09-22 13:02:10 [ThreadId 3] ERROR phoityne - [deleteBreakPointOnGHCi] invalid delete break point. BreakPointData {nameBreakPointData = "Main", srcPosBreakPointData = SourcePosition {filePathSourcePosition = "C:\\Users\\asche\\OneDrive\\Documents\\code_test\\haskell\\euler\\app\\Main.hs", startLineNoSourcePosition = 5, startColNoSourcePosition = -1, endLineNoSourcePosition = -1, endColNoSourcePosition = -1}, breakNoBreakPointData = Nothing, conditionBreakPointData = Nothing, hitConditionBreakPointData = Nothing, hitCountBreakPointData = 0}
