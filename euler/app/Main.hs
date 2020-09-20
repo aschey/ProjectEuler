@@ -3,4 +3,4 @@ module Main where
 import Lib
 
 main :: IO ()
-main = print(getFact 12)
+main = print (euler3 12)
